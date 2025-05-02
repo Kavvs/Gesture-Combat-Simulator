@@ -6,7 +6,7 @@ This is an AI-powered gesture-based action game built using Python, OpenCV, and 
 # 🖼 Preview
 Gothic-inspired UI for punch, shield, teleport, and superpowers.
 
-⚔️ Features
+# ⚔️ Features
 🎮 Real-time gesture detection using webcam (via vision/gesture_detector.py)
 
 🧛‍♂️ Gothic animated background with ambient aesthetics
