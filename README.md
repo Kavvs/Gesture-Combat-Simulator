@@ -5,7 +5,7 @@ This is an AI-powered gesture-based action game built using Python, OpenCV, and 
 
 ## 🖼 Preview
 <p align="center">
-  <img src="gesture_combat_simulator MAIN THEME.png" width="500"><br>
+  <img src="https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22gesture_combat_simulator%20MAIN%20THEME.png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222028-05-02T02%3A44%3A07.624Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2Fb87df42c3c22410c%2Fgesture_combat_simulator%20MAIN%20THEME.png%3FExpires%3D1840848248%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DDvWghMbKn04fgRSY--qzHwJM4aJ2O1cJAGWIw2TQjxWmObyA1eeESgPAu1VviEXxtGIilf1uRQ~m7wvoUr21reKK~6uiqR4epY3oaqZFiWxfApasfkGxJH0LjSw5OahXp2jsfKSlmI0-TUjBD1UMAclDkdpxC~ylhTkDjnhKk847SrfQEhD46ekR5gJi82-OYU2fQkcHqrzM5Vq8bp-rr4KjN69J10YpWOOYKCisTcFZRUQfEtHMys3qR9QHERCkc~Owa1XGWnzi6amaTPkqD-7u33WBP8P1DQpfbL9QmthmfYAxZ3zJqe7v3CK4w4RZnHsdTMh7ryHUhaazjdxZ6g__%22%7D" width="500"><br>
   <em>Gothic UI with Punch, Shield, Teleport and Superpower actions</em>
 </p>
 
