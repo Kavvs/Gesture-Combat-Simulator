@@ -3,8 +3,10 @@
 # 🕹️ Gesture-Controlled Gothic Fighter Game
 This is an AI-powered gesture-based action game built using Python, OpenCV, and Pygame. It features a gothic-themed combat environment where a player can perform real-time battle actions using hand gestures via webcam.
 
-# 🖼 Preview
-Gothic-inspired UI for punch, shield, teleport, and superpowers.
+## 🖼 Preview
+<div align="center">
+  <img src="gesture_combat_simulator_MAIN_THEME.png" width="700" alt="Game theme showing gothic UI with action labels"/>
+</div>
 
 # ⚔️ Features
 🎮 Real-time gesture detection using webcam (via vision/gesture_detector.py)
